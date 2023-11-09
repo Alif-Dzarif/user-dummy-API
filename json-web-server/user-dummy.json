@@ -1,0 +1,24 @@
+{
+  "User": [
+    {"id": 1, "first_name": "Jhon", "last_name": "Carter","age": 21, "gender": "male", "email": "jhon123@dummy.com", "password": "jhon123"},
+    {"id": 2, "first_name": "Chyntia", "last_name": "","age": 19, "gender": "female", "email": "chyntia123@dummy.com", "password": "chyntia123"},
+    {"id": 3, "first_name": "Jhonny", "last_name": "Josee","age": 25, "gender": "male", "email": "jhonny123@dummy.com", "password": "jhonny123"},
+    {"id": 4, "first_name": "Leonard", "last_name": "","age": 21, "gender": "male", "email": "leonard@dummy.com", "password": "leon123"},
+    {"id": 5, "first_name": "Higashikata", "last_name": "Yamada","age": 30, "gender": "male", "email": "higashikata@dummy.com", "password": "higashikata123"},
+    {"id": 6, "first_name": "Tohru", "last_name": "","age": 17, "gender": "female", "email": "tohru123@dummy.com", "password": "tohru123"},
+    {"id": 7, "first_name": "Unknown", "last_name": "","age": 16, "gender": "male", "email": "unknown@dummy.com", "password": "unknown123"},
+    {"id": 8, "first_name": "User", "last_name": "First","age": 21, "gender": "female", "email": "user1@dummy.com", "password": "user1123"},
+    {"id": 9, "first_name": "User", "last_name": "Second","age": 19, "gender": "male", "email": "user2@dummy.com", "password": "user1223"},
+    {"id": 10, "first_name": "User", "last_name": "Third","age": 32, "gender": "male", "email": "user3@dummy.com", "password": "user1233"},
+    {"id": 11, "first_name": "User", "last_name": "Fourth","age": 24, "gender": "female", "email": "user4@dummy.com", "password": "user4456"},
+    {"id": 12, "first_name": "User", "last_name": "Fifth","age": 26, "gender": "female", "email": "user5@dummy.com", "password": "user4556"},
+    {"id": 13, "first_name": "User", "last_name": "Sixth","age": 29, "gender": "male", "email": "user6@dummy.com", "password": "user4566"},
+    {"id": 14, "first_name": "User", "last_name": "Seventh","age": 16, "gender": "male", "email": "user7@dummy.com", "password": "user789"},
+    {"id": 15, "first_name": "Albert", "last_name": "Not Einstein","age": 21, "gender": "male", "email": "albertnotein@dummy.com", "password": "albert123"},
+    {"id": 16, "first_name": "Nicholas", "last_name": "","age": 21, "gender": "male", "email": "nich12@dummy.com", "password": "nicho123"},
+    {"id": 17, "first_name": "Alpha", "last_name": "","age": 29, "gender": "male", "email": "alpha123@dummy.com", "password": "apha123"},
+    {"id": 18, "first_name": "Beta", "last_name": "","age": 27, "gender": "male", "email": "beta123@dummy.com", "password": "beta123"},
+    {"id": 19, "first_name": "Cecilia", "last_name": "","age": 34, "gender": "female", "email": "Cecil123@dummy.com", "password": "cecil123"},
+    {"id": 20, "first_name": "Diener", "last_name": "Von Licht","age": 40, "gender": "female", "email": "vondiener@dummy.com", "password": "vondiener123"}
+  ]
+}
