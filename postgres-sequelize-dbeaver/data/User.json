@@ -1,0 +1,42 @@
+[
+  {
+    "firstName": "User",
+    "lastName": "One",
+    "age": 20,
+    "gender": "male",
+    "email": "user1@gmail.com",
+    "password": "user1"
+  },
+  {
+    "firstName": "User",
+    "lastName": "Two",
+    "age": 19,
+    "gender": "femal",
+    "email": "user2@gmail.com",
+    "password": "user2"
+  },
+  {
+    "firstName": "User",
+    "lastName": "Three",
+    "age": 23,
+    "gender": "female",
+    "email": "user3@gmail.com",
+    "password": "user3"
+  },
+  {
+    "firstName": "User",
+    "lastName": "Four",
+    "age": 21,
+    "gender": "male",
+    "email": "user4@gmail.com",
+    "password": "user4"
+  },
+  {
+    "firstName": "User",
+    "lastName": "Five",
+    "age": 26,
+    "gender": "male",
+    "email": "user5@gmail.com",
+    "password": "user5"
+  }
+]
