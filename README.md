@@ -98,7 +98,8 @@ nodemon app.js
   or
 ```
 node --watch app.js
-```   
+```
+&nbsp;   
 
 ### Endpoints:  
 - `POST/register`
