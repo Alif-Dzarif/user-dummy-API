@@ -15,13 +15,13 @@ function errorHandler(err, req, res, next) {
       break;
     
     case 'WRONG_PASSWORD':
-      code = 403;
+      code = 401;
       message = 'Wrong email or password'
       break;
 
     case 'AUTH_ISSUE':
-      code = 403;
-      message = 'Forbidden'
+      code = 401;
+      message = 'Unauthorized'
       break;
 
     default:

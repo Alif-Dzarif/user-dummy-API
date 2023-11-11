@@ -54,9 +54,17 @@ class Controller {
 
   static async getAll (req, res, next) {
     try {
-      const data = await User.findAll({
+      const { age, gender } = req.query
+
+      const option = {
+        where: {},
         attributes: { exclude: ['password'] }
-      })
+      }
+
+      if(age) option.where.age = age 
+      if(gender) option.where.gender = gender 
+
+      const data = await User.findAll(option)
 
       res.status(200).json(data)
     } catch (error) {
