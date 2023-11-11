@@ -9,7 +9,7 @@
 npm install -g json-server
 ```
 
-+ Open Directory
++ **Open Directory**
 ```
 cd json-web-server
 ```
