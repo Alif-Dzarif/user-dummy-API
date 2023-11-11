@@ -32,6 +32,11 @@ __*Info: I'm using Dbeaver for GUI Database Management__
 npm install -g sequelize-cli
 ```
 
++ **Install Nodemon Globally**
+```
+npm install -g nodemon
+```
+
 + **Open Directory**
 ```
 cd postgres-sequelize-dbeaver
